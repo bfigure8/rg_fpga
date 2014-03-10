@@ -1,0 +1,20 @@
+[ModelSim]
+unisim          = $SIMLIB_ROOTDIR/xilinx/unisim
+xilinxcorelib   = $SIMLIB_ROOTDIR/xilinx/xilinxcorelib
+[hdl]
+fpga_fmc230     = $HDS_PROJECT_DIR/../../../fmc230/designs/fpga_fmc230/hdl
+[hds]
+fpga_fmc230     = $HDS_PROJECT_DIR/../../../fmc230/designs/fpga_fmc230/hds
+[hds_settings]
+default_library     = fpga_fmc230
+design_root         = .()
+project_description = FPGA FMC230
+project_preferences_path = $HDS_PROJECT_DIR/hds_preferences_fmc230
+version             = 1
+[library_type]
+altera_mf       = downstream_only
+sgate           = downstream_only
+unisim          = downstream_only
+xilinxcorelib   = downstream_only
+[shared]
+others          = $HDS_TEAM_HOME/shared.hdp

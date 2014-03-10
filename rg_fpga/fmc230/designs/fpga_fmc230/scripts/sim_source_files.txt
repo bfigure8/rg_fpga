@@ -1,0 +1,2 @@
+fmc230/designs/fpga_fmc230/hdl/fpga_fmc230_top_struct.vhd
+fmc230/designs/fpga_fmc230/hdl/fpga_fmc230_top_tb_struct.vhd
