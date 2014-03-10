@@ -34,23 +34,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "e:\\7ATS\\rtc_ws_tlx9\\tlx9_fpga\\rg_fpga\\fmc230\\admin\\hds_project\\..\\..\\..\\fmc230\\designs\\fpga_fmc230\\hdl"
+value "e:\\rg_ws\\rg_fpga\\fmc230\\admin\\hds_project\\..\\..\\..\\fmc230\\designs\\fpga_fmc230\\hdl"
 )
 (vvPair
 variable "HDSDir"
-value "e:\\7ATS\\rtc_ws_tlx9\\tlx9_fpga\\rg_fpga\\fmc230\\admin\\hds_project\\..\\..\\..\\fmc230\\designs\\fpga_fmc230\\hds"
+value "e:\\rg_ws\\rg_fpga\\fmc230\\admin\\hds_project\\..\\..\\..\\fmc230\\designs\\fpga_fmc230\\hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "e:\\7ATS\\rtc_ws_tlx9\\tlx9_fpga\\rg_fpga\\fmc230\\admin\\hds_project\\..\\..\\..\\fmc230\\designs\\fpga_fmc230\\hds\\fpga_fmc230_top\\struct.bd.info"
+value "e:\\rg_ws\\rg_fpga\\fmc230\\admin\\hds_project\\..\\..\\..\\fmc230\\designs\\fpga_fmc230\\hds\\fpga_fmc230_top\\struct.bd.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "e:\\7ATS\\rtc_ws_tlx9\\tlx9_fpga\\rg_fpga\\fmc230\\admin\\hds_project\\..\\..\\..\\fmc230\\designs\\fpga_fmc230\\hds\\fpga_fmc230_top\\struct.bd.user"
+value "e:\\rg_ws\\rg_fpga\\fmc230\\admin\\hds_project\\..\\..\\..\\fmc230\\designs\\fpga_fmc230\\hds\\fpga_fmc230_top\\struct.bd.user"
 )
 (vvPair
 variable "SourceDir"
-value "e:\\7ATS\\rtc_ws_tlx9\\tlx9_fpga\\rg_fpga\\fmc230\\admin\\hds_project\\..\\..\\..\\fmc230\\designs\\fpga_fmc230\\hds"
+value "e:\\rg_ws\\rg_fpga\\fmc230\\admin\\hds_project\\..\\..\\..\\fmc230\\designs\\fpga_fmc230\\hds"
 )
 (vvPair
 variable "appl"
@@ -66,11 +66,11 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "e:\\7ATS\\rtc_ws_tlx9\\tlx9_fpga\\rg_fpga\\fmc230\\admin\\hds_project\\..\\..\\..\\fmc230\\designs\\fpga_fmc230\\hds\\fpga_fmc230_top"
+value "e:\\rg_ws\\rg_fpga\\fmc230\\admin\\hds_project\\..\\..\\..\\fmc230\\designs\\fpga_fmc230\\hds\\fpga_fmc230_top"
 )
 (vvPair
 variable "d_logical"
-value "e:\\7ATS\\rtc_ws_tlx9\\tlx9_fpga\\rg_fpga\\fmc230\\admin\\hds_project\\..\\..\\..\\fmc230\\designs\\fpga_fmc230\\hds\\fpga_fmc230_top"
+value "e:\\rg_ws\\rg_fpga\\fmc230\\admin\\hds_project\\..\\..\\..\\fmc230\\designs\\fpga_fmc230\\hds\\fpga_fmc230_top"
 )
 (vvPair
 variable "date"
@@ -142,11 +142,11 @@ value "March"
 )
 (vvPair
 variable "p"
-value "e:\\7ATS\\rtc_ws_tlx9\\tlx9_fpga\\rg_fpga\\fmc230\\admin\\hds_project\\..\\..\\..\\fmc230\\designs\\fpga_fmc230\\hds\\fpga_fmc230_top\\struct.bd"
+value "e:\\rg_ws\\rg_fpga\\fmc230\\admin\\hds_project\\..\\..\\..\\fmc230\\designs\\fpga_fmc230\\hds\\fpga_fmc230_top\\struct.bd"
 )
 (vvPair
 variable "p_logical"
-value "e:\\7ATS\\rtc_ws_tlx9\\tlx9_fpga\\rg_fpga\\fmc230\\admin\\hds_project\\..\\..\\..\\fmc230\\designs\\fpga_fmc230\\hds\\fpga_fmc230_top\\struct.bd"
+value "e:\\rg_ws\\rg_fpga\\fmc230\\admin\\hds_project\\..\\..\\..\\fmc230\\designs\\fpga_fmc230\\hds\\fpga_fmc230_top\\struct.bd"
 )
 (vvPair
 variable "package_name"
@@ -202,7 +202,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "19:13:30"
+value "23:27:17"
 )
 (vvPair
 variable "unit"
@@ -1183,12 +1183,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "-4,-4,1684,1020"
-viewArea "4500,3400,45604,28628"
+windowSize "0,0,1681,1024"
+viewArea "4500,3400,45408,28628"
 cachedDiagramExtent "0,0,72350,51000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 198,0
+lastUid 221,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
