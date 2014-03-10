@@ -11,7 +11,8 @@
 -- Description: 
 -------------------------------------------------------------------------------
 -- Revisions  :
--- Date     Version     Author      Description
+-- Date         Version     Author      Description
+-- 10/09/2014   1.0         bfigure8    Created
 -------------------------------------------------------------------------------
 LIBRARY ieee;
 USE ieee.std_logic_1164.all;
