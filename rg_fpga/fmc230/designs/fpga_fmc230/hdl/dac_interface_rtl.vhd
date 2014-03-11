@@ -21,7 +21,7 @@ USE ieee.numeric_std.all;
 entity dac_interface is
     generic (
         DAC_WIDTH : positive := 14
-    )        
+    );
     port (
         i_clk       : in std_logic;
         i_reset     : in std_logic;
